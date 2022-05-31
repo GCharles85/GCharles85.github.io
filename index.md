@@ -8,7 +8,8 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-My info goes here.
+Colby College, Department of Computer Science
+Computer Science Graduate, class of 2022
 
 ## About My Mentor
 
