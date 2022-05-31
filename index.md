@@ -25,3 +25,4 @@ I am helping to create a speech recognition system to help people with Alzheimer
 ## My Blog
 
 [My Blog](blog.html)
+ 
