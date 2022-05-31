@@ -8,15 +8,15 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-My info goes here.
+My info goes here2.
 
 ## About My Mentor
 
-Mentor info goes here.
+Mentor info goes here2.
 
 ## About My Project
 
-Project description goes here.
+Project description goes here2.
 
 [My Final Report](files/finalreport.pdf)
 
