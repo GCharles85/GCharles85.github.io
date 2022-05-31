@@ -18,10 +18,10 @@ avatar: https://github.com/GCharles85/GCharles85.github.io/raw/master/images/gch
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: yourmail@mail.com
+  email: charles.g@northeastern.edu
   facebook:
   flickr:
-  rss: # just type anything here for a working RSS icon
+  rss: rss
 
 # Your website URL (e.g. http://ajstent.github.io)
 # Used for Sitemap.xml and your RSS feed
