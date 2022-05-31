@@ -6,10 +6,10 @@
 name: Guyriano Charles
 
 # Short bio or description (displayed in the header)
-description: Summer 2022 DREU Project at the University of Alabama.
+description: Summer 2022 DREU at the University of Alabama.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: “https://GCharles85.github.io/images/gcharles.jpg”
+avatar: “https://GCharles85.github.io/images/gcharles.jpeg”
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email: charles.g@northeastern.edu
   facebook:
   flickr:
-  rss: # just type anything here for a working RSS icon
+  rss: rss
 
 # Your website URL (e.g. http://ajstent.github.io)
 # Used for Sitemap.xml and your RSS feed
