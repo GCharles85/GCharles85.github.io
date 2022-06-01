@@ -14,7 +14,7 @@ Computer Science Graduate, class of 2022
 ## About My Mentor
 
 Monica Anderson-Herzog is my mentor at the University of Alabama's Department of Computer Science. Dr. Anderson specializes in robotics.
-Dr. Anderson's website: https://eng.ua.edu/eng-directory/dr-monica-anderson/
+[Dr. Anderson's website](https://eng.ua.edu/eng-directory/dr-monica-anderson/)
 
 ## About My Project
 
