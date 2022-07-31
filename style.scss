@@ -18,11 +18,12 @@ html {
 }
 
 body {
-  background: $white;
+  background: $gray;
   background-image: url("/images/ua_bckground.jpg");
   background-repeat: no-repeat;
   background-position: center; /* Center the image */
-  background-size: cover; /* Resize the background image to cover the entire container */
+  height: 300px;
+  widthL 300px;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
