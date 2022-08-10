@@ -22,10 +22,11 @@ body {
   font: 18px/1.4 $helvetica;
 }
 
-background-image: url(/images/ua_bckground.jpg);
+background-image: url(/images/ua_bckground.jpg){
 background-repeat: no-repeat;
 width: 600px;
 height: 200px;
+}
 
 
 //<img src="/images/ua_bckground.jpg" alt="UA Background">
