@@ -20,12 +20,9 @@ html {
 
 body {
   background: $white;
+  background-image: url("images/ua_bckground.jpeg");
   font: 18px/1.4 $helvetica;
   color: $black;
-}
-
-body {
- background-image: url("images/ua_bckground.jpeg");
 }
 
 .container {
