@@ -24,9 +24,12 @@ body {
   color: $black;
 }
 
-<img src="dog.jpg" alt="UA">
+<img src="images/ua_bckground.jpeg" alt="UA">
 
-
+img {
+  height: 200px;
+  width: 200px;
+}
 
 .container {
   margin: 0 auto;
