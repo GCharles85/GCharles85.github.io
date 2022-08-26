@@ -24,11 +24,8 @@ body {
   color: $black;
 }
 
-<img src="images/ua_bckground.jpeg" alt="UA">
-
-img {
-  height: 200px;
-  width: 200px;
+body {
+ background-image: url("images/ua_bckground.jpeg");
 }
 
 .container {
