@@ -24,7 +24,7 @@ Related courses: Theory of Computation, Data Structures, Databases\
 Languages: C#, Java, C++, Python, JavaScript\
 Databases: MySQL, MongoDB\
 Web technologies: .NET, HTML, CSS, Angular, Node.js\
-Certifications and Tools: Agile\
+Certifications and Tools: Agile
 
 ## EXPERIENCE
 Tilson Technology Management, Remote July 2023 – January 2023\
