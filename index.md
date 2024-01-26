@@ -27,7 +27,7 @@ Web technologies: .NET, HTML, CSS, Angular, Node.js\
 Certifications and Tools: Agile
 
 ## EXPERIENCE
-Tilson Technology Management, Remote July 2023 – January 2023\
+Tilson Technology Management, Portland, ME July 2023 – January 2024\
 Software Development\
 • Utilized Visual Studio to upgrade dozens of enterprise codebases from .NET Core 3.1 and .NET 6.0 to .NET 7.0\
 • Refactored Azure Functions (AZF) to use isolated worker processes allowing for looser AZF-.NET runtime coupling\
@@ -59,7 +59,7 @@ Colby College, Waterville, ME Fall 2021 – May 2022\
 •	Implemented frontend site using PHP and HTML 
 
 
-## INTERESTS/ACTIVITIES\
+## INTERESTS/ACTIVITIES
 Music, Questbridge Scholar, Colby College Woodsmen, Data Analytics, History
 
 [My Web App Blog](blog.html)
