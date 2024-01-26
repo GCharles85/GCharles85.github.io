@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Summer 2022 DREU Project Site
+title: Guyriano Charles's Portfolio
 ---
 
 * TOC
@@ -11,17 +11,43 @@ title: Summer 2022 DREU Project Site
 Colby College, Department of Computer Science
 Computer Science Graduate, class of 2022
 
-## About My Mentor
+EDUCATION
+Northeastern University, Khoury College of Computer Sciences, Portland, ME Expected May 2024
+Master of Science in Computer Science
+Related courses: Programming Design Paradigm, Algorithms, Machine Learning
+Colby College, Waterville, ME May 2022
+Bachelor of Science in Computer Science
+Related courses: Theory of Computation, Data Structures, Databases
+TECHNICAL SKILLS
+Languages: C#, Java, C++, Python, JavaScript
+Databases: MySQL, MongoDB
+Web technologies: .NET, HTML, CSS, Angular, Node.js
+Certifications and Tools: Agile
+EXPERIENCE
+Tilson Technology Management, Remote July 2023 – January 2023
+Software Development
+• Utilized Visual Studio to upgrade dozens of enterprise codebases from .NET Core 3.1 and .NET 6.0 to .NET 7.0
+• Refactored Azure Functions (AZF) to use isolated worker processes allowing for looser AZF-.NET runtime coupling
+• Utilized xUnit QA framework to write all of Tilson’s unit tests
+• Spun up mock servers on Postman with request examples to test proprietary APIs
+• Employed Azure DevOps to set up continuous integration/continuous deployment pipelines for proprietary libraries
+University of Alabama, Tuscaloosa, Alabama May 2022 - August 2022
+Software Engineering Scholar (CRA Distributed Research Experience )
+• Worked with Bash and the Kaldi automatic speech recognition toolkit to create speech engine as an alternative to mainstream speech-to-text engines to increase access to medical resources for Alabama’s rural residents
+• Utilized Docker to create and manage containers to test and modify the necessary Kaldi directories • Utilized Travis CI for continuous integration and deployment
+• Developed backend for asset app
+Colby College, Waterville, ME February 2022 - May 2022
+Database Engineer
+• Spearheaded the task of choosing and developing database infrastructure for Colby’s INSITE lab to maintain new and existing functions and LIDAR data from “Spot”, Colby's Boston Dynamics robotic guide dog
+• Implemented MongoDB database on MongoAtlas
+• Communicated application architecture and possible future trends in community attitudes with other INSITE members via weekly sprint meetings
+PROJECTS
+Perform Sentiment Analysis with Recurrent Neural Network on Corpus of African American Language (CORAAL) Datasets, Linguistic Specificity in Corpus of African American Language, Sentiment Analysis
+• Visualized results of sentiment analysis on CORAAL data via Angular browser UI as opposed to Kaldi’s metadata files
+• Wrote backend API to access CORAAL corpus
+INTERESTS/ACTIVITIES
+Music, Questbridge Scholar, Colby College Woodsmen, Data Analytics, History
 
-Monica Anderson-Herzog is my mentor at the University of Alabama's Department of Computer Science. Dr. Anderson specializes in robotics.
-[Dr. Anderson's website](https://eng.ua.edu/eng-directory/dr-monica-anderson/)
-
-## About My Project
-
-I am helping to create a speech recognition system to help people with Alzheimer's disease and related dementias (AD/RDs) as well as their caretakers find medical and other services in their area. This chatbot is meant to be a speech recognition system. One major hurdle is that popular speech recognition systems such as Alexa are trained to recognize and respond to certain accents and dialects that the older Black population of Alabama tend to not have. More specifically, the older Black population in the communities of Birmingham, Mobile, Montgomery, and Tuscaloosa. Due to this shortcoming, there is a focus on making our speech recognition system more inclusive of African American speech. This speech recognition system is meant to be connected to a GIS backend to further develop a community asset mapping technology.
-
-[My Final Report](files/finalreport.pdf)
-
-## My Blog
+## My Web App Blog
 
 [My Blog](blog.html)
