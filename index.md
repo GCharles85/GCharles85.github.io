@@ -11,19 +11,21 @@ title: Guyriano Charles's Portfolio
 Colby College, Department of Computer Science
 Computer Science Graduate, class of 2022
 
-EDUCATION
+## EDUCATION
 Northeastern University, Khoury College of Computer Sciences, Portland, ME Expected May 2024
 Master of Science in Computer Science
 Related courses: Programming Design Paradigm, Algorithms, Machine Learning
 Colby College, Waterville, ME May 2022
 Bachelor of Science in Computer Science
 Related courses: Theory of Computation, Data Structures, Databases
-TECHNICAL SKILLS
+
+## TECHNICAL SKILLS
 Languages: C#, Java, C++, Python, JavaScript
 Databases: MySQL, MongoDB
 Web technologies: .NET, HTML, CSS, Angular, Node.js
 Certifications and Tools: Agile
-EXPERIENCE
+
+## EXPERIENCE
 Tilson Technology Management, Remote July 2023 – January 2023
 Software Development
 • Utilized Visual Studio to upgrade dozens of enterprise codebases from .NET Core 3.1 and .NET 6.0 to .NET 7.0
