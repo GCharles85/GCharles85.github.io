@@ -13,6 +13,7 @@ Computer Science Graduate, class of 2022
 
 ## EDUCATION
 Northeastern University, Khoury College of Computer Sciences, Portland, ME Expected May 2024
+
 Master of Science in Computer Science
 Related courses: Programming Design Paradigm, Algorithms, Machine Learning
 Colby College, Waterville, ME May 2022
