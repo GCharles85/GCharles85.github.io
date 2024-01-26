@@ -39,7 +39,7 @@ University of Alabama, Tuscaloosa, Alabama May 2022 - August 2022\
 Software Engineering Scholar (CRA Distributed Research Experience)\
 • Worked with Bash and the Kaldi automatic speech recognition toolkit to create speech engine as an alternative to mainstream speech-to-text engines and increased access to medical resources for Alabama’s rural residents\
 • Utilized Docker to create and manage containers to test and modify the necessary Kaldi directories\
-• Utilized Travis CI for continuous integration and deployment\
+• Utilized Travis CI for continuous integration and deployment
 
 ## PROJECTS
 Perform Sentiment Analysis with Recurrent Neural Network on Corpus of African American Language (CORAAL) Datasets, Linguistic Specificity in Corpus of African American Language, Sentiment Analysis\
