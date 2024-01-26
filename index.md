@@ -44,7 +44,7 @@ Software Engineering Scholar (CRA Distributed Research Experience)\
 ## PROJECTS
 Perform Sentiment Analysis with Recurrent Neural Network on Corpus of African American Language (CORAAL) Datasets, Linguistic Specificity in Corpus of African American Language, Sentiment Analysis\
 • Visualized results of sentiment analysis on CORAAL data via Angular browser UI as opposed to Kaldi’s metadata files\
-• Employing sentiment analysis in the Kaldi LLM reduced transcription errors by 27%
+• Employing sentiment analysis in the Kaldi LLM reduced transcription errors by 27%\
 • Wrote backend API to access CORAAL corpus's hundreds of transcripts and interviews
 
 Database Engineer\
