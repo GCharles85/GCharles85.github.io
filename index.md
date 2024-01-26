@@ -36,28 +36,27 @@ Software Development\
 • Employed Azure DevOps to set up continuous integration/continuous deployment pipelines for proprietary libraries
 
 University of Alabama, Tuscaloosa, Alabama May 2022 - August 2022\
-Software Engineering Scholar (CRA Distributed Research Experience )\
+Software Engineering Scholar (CRA Distributed Research Experience)\
 • Worked with Bash and the Kaldi automatic speech recognition toolkit to create speech engine as an alternative to mainstream speech-to-text engines to increase access to medical resources for Alabama’s rural residents\
 • Utilized Docker to create and manage containers to test and modify the necessary Kaldi directories\
 • Utilized Travis CI for continuous integration and deployment\
 • Developed backend for asset app
-
-Colby College, Waterville, ME February 2022 - May 2022\
-Database Engineer\
-• Spearheaded the task of choosing and developing database infrastructure for Colby’s INSITE lab to maintain new and existing functions and LIDAR data from “Spot”, Colby's Boston Dynamics robotic guide dog\
-• Implemented MongoDB database on MongoAtlas\
-• Communicated application architecture and possible future trends in community attitudes with other INSITE members via weekly sprint meetings
 
 ## PROJECTS
 Perform Sentiment Analysis with Recurrent Neural Network on Corpus of African American Language (CORAAL) Datasets, Linguistic Specificity in Corpus of African American Language, Sentiment Analysis\
 • Visualized results of sentiment analysis on CORAAL data via Angular browser UI as opposed to Kaldi’s metadata files\
 • Wrote backend API to access CORAAL corpus
 
-Database Engineering\
+Database Engineer\
 Colby College, Waterville, ME Fall 2021 – May 2022\
 •	Designed SQL backend using MySQL to help Colby’s international students connect with graduated international alumni\
-•	Implemented frontend site using PHP and HTML 
+•	Implemented frontend site using PHP and HTML
 
+Database Engineer\
+Colby College, Waterville, ME February 2022 - May 2022\
+• Spearheaded the task of choosing and developing database infrastructure for Colby’s INSITE lab to maintain new and existing functions and LIDAR data from “Spot”, Colby's Boston Dynamics robotic guide dog\
+• Implemented MongoDB database on MongoAtlas\
+• Communicated application architecture and possible future trends in community attitudes with other INSITE members via weekly sprint meetings
 
 ## INTERESTS/ACTIVITIES
 Music, Questbridge Scholar, Colby College Woodsmen, Data Analytics, History
