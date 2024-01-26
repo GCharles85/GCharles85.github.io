@@ -50,6 +50,4 @@ Perform Sentiment Analysis with Recurrent Neural Network on Corpus of African Am
 INTERESTS/ACTIVITIES
 Music, Questbridge Scholar, Colby College Woodsmen, Data Analytics, History
 
-## My Web App Blog
-
-[My Blog](blog.html)
+[My Web App Blog](blog.html)
