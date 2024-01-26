@@ -48,12 +48,18 @@ Database Engineer\
 • Implemented MongoDB database on MongoAtlas\
 • Communicated application architecture and possible future trends in community attitudes with other INSITE members via weekly sprint meetings
 
-PROJECTS
+## PROJECTS
 Perform Sentiment Analysis with Recurrent Neural Network on Corpus of African American Language (CORAAL) Datasets, Linguistic Specificity in Corpus of African American Language, Sentiment Analysis\
 • Visualized results of sentiment analysis on CORAAL data via Angular browser UI as opposed to Kaldi’s metadata files\
 • Wrote backend API to access CORAAL corpus
 
-INTERESTS/ACTIVITIES\
+Database Engineering\
+Colby College, Waterville, ME Fall 2021 – May 2022\
+•	Designed SQL backend using MySQL to help Colby’s international students connect with graduated international alumni\
+•	Implemented frontend site using PHP and HTML 
+
+
+## INTERESTS/ACTIVITIES\
 Music, Questbridge Scholar, Colby College Woodsmen, Data Analytics, History
 
 [My Web App Blog](blog.html)
