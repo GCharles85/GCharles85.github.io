@@ -39,6 +39,13 @@ Angular (2 years)\
 Node.js (2 years)
   
 ## EXPERIENCE
+Software Engineer, Contract, Portland, ME       February 2024 – Present\
+• Spearheading the creation of a digital art display and marketplace as the lead engineer\
+• Employ PyQT5 widgets and GUI libraries to create a user-friendly and functional user interface\
+• Utilize SvelteKit for SEO and performance optimization by reducing external API response time to 0 milliseconds.
+External data is immediately available to end user\
+• Working with PostGRESQL for dynamic database type creation and future AI integration
+
 Tilson Technology Management, Portland, ME       July 2023 – January 2024\
 Software Engineer\
 • Utilized Visual Studio to upgrade dozens of enterprise codebases from .NET Core 3.1 and .NET 6.0 to .NET 7.0\
